@@ -63,7 +63,8 @@
     "gdpr": false,
     "uniqCompNum": 95,
     "versionPublish": "6.0.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": false
   },
   "pages": {
     "features.html": {
